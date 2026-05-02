@@ -29,14 +29,8 @@ regions and organisations.
 ![Regional Comparison](regional_comparison.png)
 ![Monthly Trend](monthly_trend.png)
 
-## Files in This Repository
-| File | Description |
-|------|-------------|
-| NHS_Dashboard(NHS ENGLAND AE.xlsx) | Interactive Excel dashboard |
-| [NHS Data source](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/) | Raw source data |
-
 ## Data Source
-NHS England Monthly A&E Returns (official published statistics)
+[NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)Monthly A&E Returns (official published statistics)
 Reporting period: January 2019 — December 2025
 
 ## Live Interactive Dashboard
