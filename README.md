@@ -30,7 +30,7 @@ regions and organisations.
 ![Monthly Trend](monthly_trend.png)
 
 ## Data Source
-[NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)Monthly A&E Returns (official published statistics)
+[NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/) Monthly A&E Returns (official published statistics)
 Reporting period: January 2019 — December 2025
 
 ## Live Interactive Dashboard
