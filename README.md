@@ -27,6 +27,7 @@ regions and organisations.
 ![Dashboard Overview](dashboard_overview.png)
 ![Yearly Trend](yearly_trend.png)
 ![Regional Comparison](regional_comparison.png)
+![Monthly Trend](monthly_trend.png)
 
 ## Files in This Repository
 | File | Description |
